@@ -3,7 +3,7 @@
 
 int main()
 {
-int a[9999],i,sum=0;
+int a[9999]={0},i,sum=0;
 for(i=0;i<9999;i++)
 {
 scanf("%d\t",&a[i]);
